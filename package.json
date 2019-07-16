@@ -1,0 +1,27 @@
+{
+  "name": "j-pp",
+  "version": "1.0.0",
+  "description": "webpack4.0 开发工具",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch --pretty",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shitinglu/j-pp.git"
+  },
+  "keywords": [
+    "webpack",
+    "自动化",
+    "构建工具"
+  ],
+  "author": "shitinglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shitinglu/j-pp/issues"
+  },
+  "homepage": "https://github.com/shitinglu/j-pp#readme",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}

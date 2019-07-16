@@ -1,0 +1,15 @@
+.vscode
+.idea
+.*.swp
+._*
+.DS_Store
+.git
+
+npm-debug.log
+node_modules
+
+*.js
+./bin
+./const
+./lib
+./util
